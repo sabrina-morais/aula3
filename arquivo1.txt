@@ -5,6 +5,8 @@ $ git config --global user.name "sabrina-morais"
 
 $ git config --global user.email "sabrina.morais@academico.ifg.du.br"
 
+$ git add .
+
 $ git commit -m "versao1"
 
 (master) remoto, conta github
